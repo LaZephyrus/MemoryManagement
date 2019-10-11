@@ -7,7 +7,7 @@
 #include <sys/stat.h>
 #include <assert.h>
 #include <string.h>
-
+#include <conio.h>
 #define BLOCK_SIZE 16
 #define MEMORY_INIT_CALL_TIME_ERROR 1
 #define SIZE_OF_REGION_ERROR 2
